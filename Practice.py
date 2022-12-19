@@ -1,4 +1,4 @@
-test_str = 'youngjinyoon'
+test_str = 'youngjinyoon' #
 
 print(test_str[0])
 print(test_str[1])
