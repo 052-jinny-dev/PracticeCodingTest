@@ -3,7 +3,7 @@
 ()() YES
 (()) YES
 (((() NO
-제대로 닫힌 괄호 찾기 문제
+제대로 닫힌 괄호 찾기 문제test
 """
 for _ in range(int(input())):
     stk = []
