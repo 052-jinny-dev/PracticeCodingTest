@@ -16,7 +16,7 @@ l1 = list(s1)
 tu = tuple(s1)
 
 # list
-
+l = []
 
 
 
